@@ -1,0 +1,10 @@
+.container{
+    max-width: 1200px;
+    margin: 300px auto;
+    background-color: cornflowerblue;
+    padding: 30px;
+}
+.slider_line{
+    background-color: rgb(75, 126, 126);
+    position: relative;
+}
